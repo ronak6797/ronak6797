@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I've been learning to code for 1 years. I started with HTML, but have really found a passion for backend development.
+I've been learning to code for 1 years. I started with frontend, but have really found a passion for fullstack developer.
 
 * 🌍  I'm based in Jaipur, Rajasthan
 * ✉️  You can contact me at [rounak6797@gmail.com](mailto:rounak6797@gmail.com)
